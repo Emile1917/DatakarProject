@@ -1,6 +1,6 @@
-# OrnikarDataProject
+# PROJECTDATAORNIKAR
 
-OrnikarDataProject Est un projet python qui répond au test case de la société Ornikar pour Data Engineer. Il y'a principalement des interactions avec le projet "test-data-engineer-090621" sur bigquery 
+ProjetDataOrnikar Est un projet python qui répond au test case de la société Ornikar pour Data Engineer. Il y'a principalement des interactions avec le projet "test-data-engineer-090621" sur bigquery 
 
 Il est composé de 3 répertoires principaux à savoir :
 - credentials : qui contient le fichier JSON credential pour se connecter à l'entrepôt de donnée
@@ -42,15 +42,15 @@ Pour les utilisateurs de MAC OS
 Se rendre dans le terminal et puis lancer les commandes :
 
 ```bash
-sudo apt update
+ brew update
 ```
 
 ```bash
-sudo apt upgrade
+ brew upgrade
 ```
 
 ```bash
-sudo apt install python3.12
+brew install python3.12
 ```
 Pour les utilisateurs de windows , se rendre sur le site web de [python](https://www.python.org/downloads/release/python-3120/) et télécharger l installer.
 
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 ```
 ensuite pour l'installation des modules utilisés dans le projet
 
-- soit ouvrir le projet avec l'IDE de votre choix ([Pycharm](https://www.jetbrains.com/pycharm/),[VSCode](https://code.visualstudio.com/),etc) si vous l'avez ou le télécharger et configurez l'interpréteur python 3.12.
+- soit ouvrir le projet avec l'IDE de votre choix ([Pycharm](https://www.jetbrains.com/pycharm/), [VSCode](https://code.visualstudio.com/), etc) si vous l'avez ou le télécharger et configurez l'interpréteur python 3.12.
 
 ## Usage
 Pour voir les solutions du projet se rendre dans le répertoire scripts/ et lancer le script main.py soit avec l'IDE ou en ligne de commande
