@@ -10,9 +10,10 @@ Il est composé de 3 répertoires principaux à savoir :
   . Des données tests , qui sont issus des expérimentations de croisements des départements aux meeting_points
   . Des résultats de requêtes , étant des réponses à l'exercice
 - scripts : qui contient les scripts au paradigme orienté object dans des packages :
-   . Le module connection , pour la connection à bigquery et le requêtage d'Api
+   . Le module connection , pour la connection à bigquery et le requêtage d'Api de géolocalisation
    . Le module experimentation qui contient des pistes étudié pour le croisement des départements aux meeting_points , notament l'extraction des tables de bigquery et le test de plusieurs librairies de manipulation de données pour le croisement des données
    . Le module solution qui comprend les réponses aux questions à savoir  : les dates auxquelles les enseignants ayant données le plus de cours au 3ème trimestre de 2020 ont dispensés leur 50ème lesson et le nombre de leçons par départements en fonction des type de partenariats dans un intervalle de temps précis .
+   . le module test qui comprend les unitaires sur chacun des scripts.
 
 
 ## Installation
