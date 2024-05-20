@@ -83,7 +83,7 @@ python3 main.py
 Il faut se laisser guider par la console interactive.
 
 Faire de même pour les tests dans ou bien les scripts d'experimentation dans experimentation
-
+Il est necessaire voir promordial de lancer le script d'extraction pour charger la base de données avant de procéder au croisement des données avec la classe ProcessLocationData
 
 
 ## Contribution
