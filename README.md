@@ -1,6 +1,6 @@
-# PROJECTDATAORNIKAR
+# PROJECTDATAKAR
 
-ProjetDataOrnikar Est un projet python qui répond au test case de la société Ornikar pour Data Engineer. Il y'a principalement des interactions avec le projet "test-data-engineer-090621" sur bigquery 
+ProjetDatakar Est un projet python. Il y'a principalement des interactions avec le projet "test-data-engineer-090621" sur bigquery 
 
 Il est composé de 3 répertoires principaux à savoir :
 - credentials : qui contient le fichier JSON credential pour se connecter à l'entrepôt de donnée
