@@ -92,5 +92,8 @@ Les demandes de tirage sont les bienvenues. Pour des changements majeurs, veuill
 pour discuter de ce que vous aimeriez changer.
 
 Veuillez vous assurer de mettre à jour les tests le cas échéant.
+
+
 ## Rapport du projet
-[Download the PDF]([DataEng_EmileAveko_Datakar.pdf](https://github.com/user-attachments/files/20784092/DataEng_EmileAveko_Datakar.pdf))
+[DataEng_EmileAveko_Datakar.docx](https://github.com/user-attachments/files/20784210/DataEng_EmileAveko_Datakar.docx)
+
